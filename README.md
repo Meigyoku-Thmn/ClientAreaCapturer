@@ -1,10 +1,15 @@
 # Client Area Capturer
 Chụp ảnh client area của cửa sổ Windows
 
+[Click here to read English README](../blob/master/README-EN.md)
+
 # Cách sử dụng
 - Chạy chương trình này, ở System Tray sẽ có icon của app này
 - Bấm tổ hợp phím <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>PrintScreen</kbd> để chụp ảnh "client area" của cửa sổ đang focus bất kỳ
 - Ảnh chụp sẽ được lưu vào clipboard
+
+# Tải xuống
+https://drive.google.com/drive/folders/1HYTwiSDFSvvvwQLeIzPqxBdZinJfArTo?usp=sharing
 
 # Ví dụ chụp ảnh cửa sổ của ứng dụng Calculator
 - Sử dụng <kbd>Alt</kbd> + <kbd>PrintScreen</kbd> một cách bình thường:
