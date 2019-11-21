@@ -1,5 +1,5 @@
 # Client Area Capturer
-Chụp ảnh client area của cửa sổ Windows
+Chụp ảnh client area của cửa sổ Windows, hay nói cách khác là chụp ảnh cửa sổ nhưng không có border (không có đường viền, borderless)
 
 [Click here to read English README](../master/README-EN.md)
 
