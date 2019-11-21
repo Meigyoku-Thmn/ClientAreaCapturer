@@ -1,5 +1,5 @@
 # Client Area Capturer
-Capture the image of client area of any window in Windows OSes
+Capture the image of client area of any window in Windows OSes, in other words, capture any window without border (borderless).
 
 [Click vào đây để đọc README Tiếng Việt](../master/README.md)
 
