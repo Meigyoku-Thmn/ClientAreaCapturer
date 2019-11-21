@@ -1,7 +1,7 @@
 # Client Area Capturer
 Capture the image of client area of any window in Windows OSes
 
-[Click vào đây để đọc README Tiếng Việt](../blob/master/README.md)
+[Click vào đây để đọc README Tiếng Việt](../master/README.md)
 
 # How to use
 - Run this program, an icon of this program should be displayed in System Tray
